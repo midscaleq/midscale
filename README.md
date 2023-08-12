@@ -58,7 +58,7 @@ curl.exe -X POST http://localhost:18888/ms/v1/api/group/create -H 'Content-Type:
 {"code":0,"message":"OK","results":{"encodedConnectionInfo":"11AzRs3hATs8fNwhF7FcwxweHZxpqkn4aQQ322zHydDZ6D8JZqvFLTFY51riHGWjSEvdzUdRUvDvmWvi7HqAkiawv8yZMSqoDEWETJ6KwPr1E3PtfA4wPggTscbMXj95MUvpxkM339ViR4S68G8J991oWfuQF6XptTbKu3XMXj53xHp8xonapCARaPEMhpw4hKMWwAtfzzeiH6vNE1MwL17Vq8yRAwz3q54FSic9nqzouXomEMerrb6ujX7nZvFWiM5mAaTsjeRM3z2AcpNM9GR5E3habpx5kHW86tXWyHebtax3ZYqqACTmMB9Yp2YB6MKSYQ9DUStro3YpueMJ7Y3ZNToMMHCd9HWTmx9mGAdh2ZDqUDZRQNgLMBqXjTvjim6NUXottWTPH4jvcdzSfopPqEkw5mKqpmY4oWNeCHz1KpLyiycWaiLnF5qbzsNEV6i74cY3pt9T8wMYhFiz4L5KPgdxiaL8Q2M6AxC155"}}
 ```
 
-https://github.com/midscaleq/midscale/assets/139641468/e15f7699-789a-4ee9-9aa1-54baacf0c157
+https://github.com/midscaleq/midscale/assets/139641468/b6d9ccfe-0052-414e-a5a7-3706a1eeecba
 
 ### Execute in PC2 AS a wireguard client
 
@@ -80,7 +80,7 @@ curl.exe -X POST http://localhost:18888/ms/v1/api/group/join -H 'Content-Type: a
 
 ```
 
-https://github.com/midscaleq/midscale/assets/139641468/6df5196c-ca23-4cb5-bfa0-0459210f12d3
+https://github.com/midscaleq/midscale/assets/139641468/bfba91c9-a8ab-4cb5-9325-8830568a6173
 
 ### Check if the join is successful
 
@@ -90,7 +90,7 @@ Execute in PC1
 ping 10.0.0.2
 ```
 
-https://github.com/midscaleq/midscale/assets/139641468/8786fb98-7dc2-487e-871d-2d699f287ebd
+https://github.com/midscaleq/midscale/assets/139641468/e67eb601-eeeb-4fc2-bf90-7afb0e454a38
 
 Execute in PC2
 
@@ -98,7 +98,7 @@ Execute in PC2
 ping 10.0.0.1
 ```
 
-https://github.com/midscaleq/midscale/assets/139641468/961d7abf-885c-4781-8012-b20b8354246b
+https://github.com/midscaleq/midscale/assets/139641468/b0ab7e65-82d4-4ba0-87e1-ac8329e89165
 
 ## Contributing
 
